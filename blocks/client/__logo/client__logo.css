@@ -1,0 +1,5 @@
+.client__logo {
+  height: 200px;
+  width: 300px;
+  object-fit: contain;
+}

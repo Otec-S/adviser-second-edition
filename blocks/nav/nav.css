@@ -1,0 +1,8 @@
+.nav {
+  width: 66.67%;
+  height: 119px;
+  background-color: rgb(64, 186, 188);
+  display: flex;
+  justify-content: space-between;
+  box-sizing: border-box;
+}

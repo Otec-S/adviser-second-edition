@@ -1,0 +1,7 @@
+.header {
+  min-height: 119px;
+  background-color: rgb(85, 74, 88);
+  display: flex;
+  position: sticky;
+  top: 0;
+}

@@ -1,0 +1,5 @@
+.block__description {
+  display: flex;
+  background-color: lightgray;
+  padding-top: 20px;
+}
