@@ -1,25 +1,4 @@
-/* ШРИФТЫ */
 
-@font-face {
-  src: url(../fonts/JuraBold.woff);
-  font-family: 'Jura Bold';
-  font-style: bold;
-}
-@font-face {
-  src: url(../fonts/JuraLight.woff);
-  font-family: 'Jura Light';
-  font-style: light;
-}
-@font-face {
-  src: url(../fonts/JuraMedium.woff);
-  font-family: 'Jura Medium';
-  font-weight: medium;
-}
-
-@font-face {
-  src: url(../fonts/JuraRegular.woff);
-  font-family: 'Jura';
-}
 
 /* ОБЩИЕ */
 /* a {
