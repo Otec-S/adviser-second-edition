@@ -6,6 +6,7 @@
   text-transform: uppercase;
   margin: auto;
   transition: transform .2s linear;
+  padding: 10px;
 }
 
 .nav__title:hover {

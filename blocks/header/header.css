@@ -2,6 +2,13 @@
   min-height: 119px;
   background-color: rgb(85, 74, 88);
   display: flex;
+  /* flex-wrap: wrap; */
   /* position: sticky;
   top: 0; */
+}
+
+@media screen and (max-width: 845px) {
+  .header {
+    flex-direction: column;
+  }
 }

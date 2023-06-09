@@ -5,4 +5,11 @@
   display: flex;
   justify-content: space-between;
   box-sizing: border-box;
+  flex-wrap: wrap;
+}
+
+@media screen and (max-width: 845px) {
+  .nav {
+    width: 100%;
+  }
 }
