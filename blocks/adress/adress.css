@@ -13,3 +13,9 @@
     width: 100%;
   }
 }
+
+@media screen and (max-width: 380px) {
+  .adress {
+    font-size: 15px;
+  }
+}
