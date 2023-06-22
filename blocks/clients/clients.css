@@ -8,3 +8,9 @@
   gap: 40px;
   justify-content: space-evenly;
 }
+
+@media screen and (max-width: 639px) {
+  .clients {
+    gap: 0px;
+  }
+}

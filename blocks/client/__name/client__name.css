@@ -5,3 +5,9 @@
   font-weight: 100;
   text-align: center;
 }
+
+@media screen and (max-width: 639px) {
+  .client__name {
+    display: none;
+  }
+}
