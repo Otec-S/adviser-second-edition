@@ -26,7 +26,8 @@ The Website serves as the online platform for the Russian legal firm Adviser. Bu
 Web browser with HTML and CSS support.
 
 ### Project Status and Future Plans:
-- Future plans involve a significant overhaul of the website's architecture by rewriting it entirely in **React**. This transition aims to enhance performance, interactivity, and maintainability.
+- Future plans involve a significant overhaul of the website's architecture by rewriting it entirely in   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+. This transition aims to enhance performance, interactivity, and maintainability.
 
 - Additionally, there are plans to implement a more user-friendly **navigation** system optimized for viewing on mobile devices. This enhancement will ensure that users can easily access and navigate through the website's content regardless of the device they are using. Updates to the content and services offered may also be implemented to better serve the needs of clients and visitors to the website.
 
